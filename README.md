@@ -4,6 +4,16 @@
 #### Course - Data Visualization
 #### Purpose - This repository was completed as a graded project in partial fulfillment of the requirements for the MSc DSA degree.
 
+## Background to the Study 
+Athletic performance is shaped by a complex interplay of factors, including physical attributes, training regimens (Boullosa et al., 2020), and external conditions (TrineOnline, 2022). Through an in-depth analysis of historical Olympic data, this study aims to identify meaningful patterns across a range of sports disciplines. Specifically, we will examine variables such as age, gender, weight, height, nationality, and event type to uncover performance trends. These insights aim to inform strategies for enhancing athlete development and equity in competition.
+The enduring pursuit of excellence in sports has driven ongoing innovation in training techniques and performance analysis. A comprehensive understanding of the factors influencing athletic outcomes empowers athletes, coaches, and sports organizations to make evidence-based decisions that optimize training and maximize performance. Moreover, examining over a century of Olympic data offers a unique opportunity to observe the evolution of athletic achievements, highlight persistent trends, and identify emerging patterns that contribute to success. This research not only enhances our knowledge of elite performance but also reveals areas for future growth and improvement in the global sporting landscape.
+
+## Research Questions
+To define the scope of this study, the team refined the research focus by formulating the following guiding questions:
+- What key factors influence an athlete's performance?
+- Which countries have improved the most in terms of medal performance?
+- How have Olympic sports evolved over time in terms of athlete demographics, performance, and competition trends?
+
 ## Dataset Used
 - The dataset used in this project was obtained from Kaggle and is publicly available under a Creative Commons (CC) license.
 - Dataset URL - https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
