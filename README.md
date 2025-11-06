@@ -6,6 +6,7 @@
 
 ## Background to the Study 
 Athletic performance is shaped by a complex interplay of factors, including physical attributes, training regimens (Boullosa et al., 2020), and external conditions (TrineOnline, 2022). Through an in-depth analysis of historical Olympic data, this study aims to identify meaningful patterns across a range of sports disciplines. Specifically, we will examine variables such as age, gender, weight, height, nationality, and event type to uncover performance trends. These insights aim to inform strategies for enhancing athlete development and equity in competition.
+
 The enduring pursuit of excellence in sports has driven ongoing innovation in training techniques and performance analysis. A comprehensive understanding of the factors influencing athletic outcomes empowers athletes, coaches, and sports organizations to make evidence-based decisions that optimize training and maximize performance. Moreover, examining over a century of Olympic data offers a unique opportunity to observe the evolution of athletic achievements, highlight persistent trends, and identify emerging patterns that contribute to success. This research not only enhances our knowledge of elite performance but also reveals areas for future growth and improvement in the global sporting landscape.
 
 ## Research Questions
@@ -45,3 +46,12 @@ You can execute the project using Google Colab, Jupyter Notebook, or any .ipynb-
         from google.colab import drive
         drive.mount('/content/drive')
 3. Update the notebook file paths if needed, then run all cells sequentially.
+
+## References
+- Boullosa, D., Esteve-Lanao, J., Casado, A., Peyré-Tartaruga, L. A., Gomes da Rosa, R., & Del Coso, J. (2020). Factors affecting training and physical performance in recreational endurance runners. Sports, 8(3), 35.
+- Kaggle. 120 years of Olympic history: athletes and results. Retrieved January 25, 2025 from https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data
+- Matplotlib. https://matplotlib.org/
+- Plotly Express. https://plotly.com/python/plotly-express/
+- Seaborn. https://seaborn.pydata.org/
+- TrineOnline. (2022). How the environment impacts sports performance. Trine University. Retrieved February 6, 2025 from https://www.trine.edu/academics/centers/center-for-sports-studies/blog/2023/how_the_environment_impacts_sports_performance.aspx
+
